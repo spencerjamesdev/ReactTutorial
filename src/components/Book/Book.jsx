@@ -12,4 +12,4 @@ const Book = (props) => {
      );
 }
  
-export default Book;props
+export default Book;
